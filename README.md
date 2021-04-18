@@ -1,5 +1,5 @@
 
-# DDoSTor v1.0
+# DDoSTor v1.0t
 ## Author: github.com/thelinuxchoice
 ## IG: instagram.com/thelinuxchoice
 ### Github: github.com/thelinuxchoice/ddostor
